@@ -1,2 +1,2 @@
-# digiteq_hackathon_25
-Repository with the content for the Digiteq Hackathon happening on 2025
+# Emoji Detection
+ To get started, please download the repository and carefully review the assignment details. You'll find 100 pictures and a CSV file with data labels available for use in developing and testing your application. The data is available in the "data" folder within the repository. For more comprehensive assignment information, refer to the Emo Task assignment.docx document.
