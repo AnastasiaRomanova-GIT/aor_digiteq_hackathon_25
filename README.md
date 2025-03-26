@@ -5,10 +5,14 @@
  The script has two possible running modes:
 
 basic with no vsualisation:
+```
 python main.py
+```
 
  and with visualisation:
+ ```
  python main.py --show
+```
 
 # description
 As the task allows some explorations of the methods, this fork cuts the template from
